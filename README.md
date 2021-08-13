@@ -18,3 +18,6 @@ Use the following command to print the password on your terminal:
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 ### Login Jenkins in browser
+
+### Install blue Ocean plugin in Jenkins
+"Manage Jenkins"-->"Manage Plugins"-->"Available" label--> input "blue ocean" in search.
