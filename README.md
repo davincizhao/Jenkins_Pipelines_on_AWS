@@ -21,3 +21,6 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 ### Install blue Ocean plugin in Jenkins
 "Manage Jenkins"-->"Manage Plugins"-->"Available" label--> input "blue ocean" in search.
+
+### Create Pipeline in blue ocean
+### Line GitHub to Pipeline
